@@ -27,7 +27,7 @@ module Thredup
     end
 
     def brands
-      @brands ||= load_csv(File.expand_path(root_path + 'brands.csv', __FILE__))
+      @brands ||= load_csv(File.expand_path(@root_path + 'brands.csv', __FILE__))
     end
 
     private

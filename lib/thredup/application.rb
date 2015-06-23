@@ -5,14 +5,23 @@ module Thredup
     def initialize
       puts "Welcome to the Thredup Payout Calculator!"
       @items, @db = [], Thredup::Data.new
+      get_items_info
+      show_total
+    end
+
+    private
+    def show_total
+      bag_total = Thredup::PayoutCalculator.calculate_total(@db, @items)
+      I18n.enforce_available_locales = false
+      puts "Your bag has a total value of: $#{Money.new(bag_total * 100, "USD")}"
+    end
+
+    def get_items_info
       item_number = 1
       until @finished 
         get_item_info(item_number)
         item_number += 1
       end
-      bag_total = Thredup::PayoutCalculator.calculate_total(@db, @items)
-      I18n.enforce_available_locales = false
-      puts "Your bag has a total value of: $#{Money.new(bag_total * 100, "USD")}"
     end
 
     def get_item_info(item_number)
@@ -52,7 +61,6 @@ module Thredup
       category 
     end
 
-    private
 
     def finished?(input)
       ['finish', 'finished', 'done'].include?(input.downcase)
