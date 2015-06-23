@@ -1,0 +1,270 @@
+name,payout_multiplier
+long sleeve top,0.75
+tank top,1.6
+long sleeve t-shirt,0.75
+long sleeve button down,1
+long sleeve jersey,1
+long sleeve polo,0.75
+long sleeve tunic,1.2
+long sleeve turtleneck,1.2
+halter top,1
+camisole,1.4
+pullover sweater,1.6
+heavy sweater,1.4
+sweater vest,1
+sweatshirt,1.2
+pullover hoodie,1.4
+fleece,1
+cardigan,0.85
+shrug,1.6
+poncho/cape,1.6
+jacket,1.2
+heavy jacket,1.6
+vest,1.6
+zip-up hoodie,0.75
+windbreaker,0.85
+trenchcoat,1.6
+blazer,1.4
+cocktail dress,1.4
+casual dress,1.4
+formal skirt,1.2
+casual skirt,1.6
+jean skirt,1
+skort,0.85
+jumpsuit,1.6
+dress suit,1
+pant suit,0.75
+romper,1.2
+casual pants,1
+jeans,1
+cargo,1
+khakis,1.6
+chinos,1.2
+corduroy,1.4
+dress pants,1.2
+overalls,1.2
+sweatpants,1.2
+fleece pants,0.85
+leggings,1.2
+capris,1.4
+shorts,0.75
+jean shorts,1
+cargo shorts,0.85
+athletic shorts,1.4
+khaki shorts,1.6
+dress shorts,1.4
+overall shorts,1
+one-piece swimsuit,1
+two-piece swimsuit,1.6
+swimsuit cover-up,1.2
+rash guard,1.6
+raincoat,0.85
+rain pants,0.85
+rainsuit,1.6
+snow pants,1
+snow pants with bib,1.4
+ski pants,1
+ski jacket,1.2
+ski hat,1.4
+ski gloves,1.4
+other ski gear,0.75
+activewear top,1
+soccer,0.75
+basketball,1.2
+dance/ballet bottom,1.2
+yoga pants,1.4
+track/running,1
+golf top,1
+tennis bottom,0.75
+field hockey,1.2
+shoes,1
+heels/pumps,1.4
+flats,0.85
+boots,1.4
+mules/clogs,1.6
+sandals,0.85
+flip flops,0.85
+slippers,0.85
+rain boots,1.2
+dance shoes,0.85
+sneakers/athletic,1
+work & safety,1.2
+hat,0.75
+winter hat,1.2
+ski hat,1
+baseball cap,1.2
+beanie,0.75
+visor,0.85
+accessory,1
+belt,1.6
+scarf,0.85
+necktie,0.85
+mittens,0.75
+gloves,1.4
+tights/legwarmers,1.2
+purse/handbag,1.6
+backpack,0.85
+sunglasses,1.4
+hair & headband,0.85
+wrap,1
+slip,1.2
+costume,1.4
+track pants,1.2
+robe,1
+watch,0.85
+dance/ballet top,1.2
+golf bottom,1.2
+summer dress,1.4
+leather dress,0.85
+faux leather dress,1.4
+silk dress,1
+wool dress,0.85
+sun hat,1
+silk pants,0.75
+faux fur jacket,1.6
+jean jacket,0.75
+leather jacket,1
+leather pants,1
+linen pants,1.6
+wool pants,0.75
+sleeveless blouse,1.4
+short sleeve blouse,1.2
+3/4 sleeve blouse,0.85
+long sleeve blouse,1.2
+sleeveless button down,1.6
+short sleeve button down,1.2
+3/4 sleeve button down,0.85
+sleeveless cropped top,1.2
+short sleeve cropped top,0.85
+3/4 sleeve cropped top,1.6
+long sleeve cropped top,0.85
+sleeveless henley,0.85
+short sleeve henley,1
+3/4 sleeve henley,1.2
+long sleeve henley,0.75
+sleeveless jersey,0.85
+short sleeve jersey,1.6
+3/4 sleeve jersey,1.2
+sleeveless polo,1.4
+short sleeve polo,0.75
+3/4 sleeve polo,0.75
+sleeveless t-shirt,1.2
+short sleeve t-shirt,1
+3/4 sleeve t-shirt,1.6
+tube top,1
+sleeveless tunic,1
+short sleeve tunic,1.6
+3/4 sleeve tunic,1.2
+sleeveless turtleneck,1.4
+short sleeve turtleneck,1.4
+3/4 sleeve turtleneck,1
+sleeveless silk top,0.75
+short sleeve silk top,1.6
+3/4 sleeve silk top,1.2
+long sleeve silk top,1.4
+sleeveless top,1.6
+ankle boots,1
+cashmere sweater,0.75
+silk sweater,1.2
+wetsuit,1.4
+tennis top,1.2
+yoga top,1
+activewear bottom,1.6
+leather skirt,0.75
+faux leather skirt,0.75
+wool skirt,1.6
+short sleeve top,0.75
+3/4 sleeve top,1.6
+nursing t-shirt,1
+nursing top,1.6
+nursing dress,0.85
+swimsuit top,1.2
+swimsuit bottom,1.6
+turtleneck sweater,1.2
+distressed jeans,1.4
+wedges,1.2
+thermal,1.2
+faux leather jacket,1.4
+board shorts,1.4
+"work uniform, top",1.2
+"work uniform, bottom",0.75
+"work uniform, accessory",1.4
+leather top,0.75
+faux leather top,1.6
+cashmere dress,0.75
+sweater dress,0.85
+silk skirt,1.4
+skort,0.85
+leather shorts,1
+faux leather shorts,0.75
+track jacket,1.2
+wool coat,1.4
+jeggings,1.4
+cashmere scarf,0.75
+water shoes,1.2
+silk scarf,1.2
+silk blazer,1
+skirt suit,0.85
+wool scarf,0.85
+leather belt,1
+tap shoes,1.4
+oxfords,1.2
+boat shoes,0.85
+espadrilles,1.4
+tuxedo vest,1.2
+denim vest,1
+Wool Vest,1.4
+Silk Vest,1.6
+kimono,1.2
+Leotard,0.85
+Pullover Sweater,0.75
+sleeveless cardigan,1.2
+wool sweater,0.85
+duster,0.75
+Fleece Zip-up,0.85
+fedora,1.4
+knit/sweat shorts,1.2
+velour pants,0.85
+parka,0.75
+Poncho/Cape Jacket,1.2
+peacoat,1.2
+puffer coat,1
+coat,1.4
+Outerwear Vest,1.2
+puffer vest,1
+faux fur vest,1.4
+Leather Vest,0.75
+Faux Leather Vest,1
+Fleece Vest,1.4
+activewear tank,1
+activewear t-shirt,1.6
+activewear skort,1.6
+activewear dress,1.6
+activewear skirt,0.85
+clutch,1.6
+crossbody,1
+leather baby bag,0.75
+hobo,1.2
+satchel,1.2
+shoulder bag,0.85
+tote,1.2
+weekender,1.4
+laptop,1.6
+wristlet,1.6
+wallet,1
+leather wristlet,1.4
+baby bag,1
+leather wallet,0.85
+faux leather pants,1.6
+wool blazer,0.85
+small accessory,0.85
+leather laptop,1.2
+leather weekender,1.4
+leather tote,1.2
+leather shoulder bag,0.85
+leather satchel,0.75
+leather hobo,1.6
+leather crossbody,0.75
+leather clutch,1.2
+leather backpack,1.4
+leather small accessory,1.2
